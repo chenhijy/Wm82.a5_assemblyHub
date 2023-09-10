@@ -1,0 +1,5 @@
+hub hcSoyPangenomeHub 
+shortLabel hcSoyPangenomeHub
+longLabel hcSoyPangenomeHub
+genomesFile https://raw.githubusercontent.com/chenhijy/Wm82a5_assemblyHub/main/genomes.txt
+email hechen{at}salk.edu
