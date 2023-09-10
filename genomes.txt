@@ -1,4 +1,4 @@
-genome gasAcu1-4
+genome gMaxWm82A5
 trackDb https://raw.githubusercontent.com/chenhijy/Wm82a5_assemblyHub/main/trackDb.txt
 twoBitPath https://salk-tm-shared.s3.us-west-2.amazonaws.com/heidi_ucscGenomeBrowserTest/Wm82.a5.refAssembly.2bit
 organism Glycine max Wm82A5
